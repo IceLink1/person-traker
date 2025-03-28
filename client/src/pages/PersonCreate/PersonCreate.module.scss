@@ -1,0 +1,16 @@
+.PersonCreate {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 100px 0px;
+  color: #000;
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}

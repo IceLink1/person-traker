@@ -1,0 +1,13 @@
+{
+  "name": "Persons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd server && npm install && cd ../client && npm install",
+    "start:server": "cd server && npm run start:dev",
+    "start:client": "cd client && npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
