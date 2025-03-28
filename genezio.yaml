@@ -25,6 +25,6 @@ frontend:
         deploy:
             - npm install
     subdomain: test-alpha
-name: test-alpha
+name: person-tacker
 region: us-east-1
 yamlVersion: 2
